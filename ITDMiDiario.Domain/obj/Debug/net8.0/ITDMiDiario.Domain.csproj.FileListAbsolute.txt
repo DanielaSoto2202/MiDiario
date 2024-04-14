@@ -1,0 +1,4 @@
+C:\Users\Propietario\source\repos\MiDiario\ITDMiDiario.Domain\obj\Debug\net8.0\ITDMiDiario.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\source\repos\MiDiario\ITDMiDiario.Domain\obj\Debug\net8.0\ITDMiDiario.Domain.AssemblyInfoInputs.cache
+C:\Users\Propietario\source\repos\MiDiario\ITDMiDiario.Domain\obj\Debug\net8.0\ITDMiDiario.Domain.AssemblyInfo.cs
+C:\Users\Propietario\source\repos\MiDiario\ITDMiDiario.Domain\obj\Debug\net8.0\ITDMiDiario.Domain.csproj.CoreCompileInputs.cache

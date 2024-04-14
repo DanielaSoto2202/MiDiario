@@ -1,0 +1,5 @@
+C:\Users\Propietario\source\repos\MiDiario\ITD.Pueba.Infrastructure\obj\Debug\net8.0\ITD.MiDiario.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Propietario\source\repos\MiDiario\ITD.Pueba.Infrastructure\obj\Debug\net8.0\ITD.MiDiario.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\source\repos\MiDiario\ITD.Pueba.Infrastructure\obj\Debug\net8.0\ITD.MiDiario.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Propietario\source\repos\MiDiario\ITD.Pueba.Infrastructure\obj\Debug\net8.0\ITD.MiDiario.Infrastructure.AssemblyInfo.cs
+C:\Users\Propietario\source\repos\MiDiario\ITD.Pueba.Infrastructure\obj\Debug\net8.0\ITD.MiDiario.Infrastructure.csproj.CoreCompileInputs.cache

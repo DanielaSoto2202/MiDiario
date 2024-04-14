@@ -1,0 +1,6 @@
+@MiDiario_HostAddress = http://localhost:5245
+
+GET {{MiDiario_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

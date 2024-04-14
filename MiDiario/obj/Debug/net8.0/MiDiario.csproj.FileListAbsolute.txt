@@ -1,0 +1,6 @@
+C:\Users\Propietario\source\repos\MiDiario\MiDiario\obj\Debug\net8.0\MiDiario.csproj.AssemblyReference.cache
+C:\Users\Propietario\source\repos\MiDiario\MiDiario\obj\Debug\net8.0\MiDiario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Propietario\source\repos\MiDiario\MiDiario\obj\Debug\net8.0\MiDiario.AssemblyInfoInputs.cache
+C:\Users\Propietario\source\repos\MiDiario\MiDiario\obj\Debug\net8.0\MiDiario.AssemblyInfo.cs
+C:\Users\Propietario\source\repos\MiDiario\MiDiario\obj\Debug\net8.0\MiDiario.csproj.CoreCompileInputs.cache
+C:\Users\Propietario\source\repos\MiDiario\MiDiario\obj\Debug\net8.0\MiDiario.MvcApplicationPartsAssemblyInfo.cache
